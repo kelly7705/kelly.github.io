@@ -31,7 +31,6 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 # 🔥 News
 <div style="max-width:100%; max-height:480px; overflow-y:auto; overflow-x:hidden;">
-<!-- 内层内容容器，右侧加边框，边框高度自动等于全部内容高度 -->
 <div style="padding-right:16px; padding-left:4px; border-right:4px solid #8C2318;">
 <h3 style="margin-bottom:8px;">2026</h3>
 <ul style="padding-left:20px; margin:0 0 16px 0;">
@@ -100,7 +99,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 # 📝 Publications 
 
 <div class='paper-box'>
-<div class='paper-box-image' style="width: 250px; max-width: 250px;">    
+<div class='paper-box-image' style="width: 300px; max-width: 300px;">    
 <div style="position: relative; border-radius: 10px; overflow: hidden;">
 <div class="badge">IEEE TCCN 2025</div>
 <img src='images/tccn.svg' alt="sym" width="100%" style="border-radius: 10px; display: block;"></div>
