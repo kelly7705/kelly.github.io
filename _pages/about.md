@@ -25,17 +25,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 
 # 🔥 News
-<!-- <div style="max-width:100%; border-right:4px solid #8C2318; padding-right:12px; padding-left:4px;">
-<ul style="padding-left:20px; margin:0;">
-<li>[Jun 2026]: &nbsp; <strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by IEEE Transactions on Cloud Computing (<em style="color:#A52A2A">IEEE TCC</em>). [<a href="https://ieeexplore.ieee.org/abstract/document/11563616" style="color:#A52A2A; font-weight:bold">pdf</a>] 🎉🎉</li>
-<li>[Dec 2025]: &nbsp; <strong style="color:#2E8B57">[Award]</strong> I was awarded the National Postgraduate Scholarship. 🏆</li>
-<li>[Sep 2025]: &nbsp; <strong style="color:#D2691E">[Patent]</strong> One patent was granted. ✨</li>
-<li>[Aug 2025]: &nbsp; <strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by IEEE Transactions on Cognitive Communications and Networking (<em style="color:#A52A2A">IEEE TCCN</em>). [<a href="https://ieeexplore.ieee.org/document/11127211" style="color:#A52A2A; font-weight:bold">pdf</a>]</li>
-<li>[Aug 2025]: &nbsp; <strong style="color:#9932CC">[Talk]</strong> I gave a presentation at AIoTSys 2025, Lanzhou, China. 😊</li>
-<li>[Jun 2025]: &nbsp; <strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by The 3rd International Conference on Artificial Intelligence of Things and Systems (<em style="color:#A52A2A">AIoTSys 2025</em>). [<a href="https://link.springer.com/chapter/10.1007/978-981-95-2581-2_23" style="color:#A52A2A; font-weight:bold">pdf</a>] 🎉🎉</li>
-<li>[May 2025]: &nbsp; <strong style="color:#D2691E">[Patent]</strong> One patent was granted. ✨</li>
-</ul>
-</div> -->
+
 
 
 <div style="max-width:100%; border-right:4px solid #8C2318; padding-right:12px; padding-left:4px;">
@@ -43,7 +33,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 <h3 style="margin-bottom:8px;">2026</h3>
 <ul style="padding-left:20px; margin:0 0 16px 0;">
 <li style="display:flex; justify-content:space-between;">
-  <span><strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by IEEE Transactions on Cloud Computing (<em style="color:#A52A2A">IEEE TCC</em>). [<a href="https://ieeexplore.ieee.org/abstract/document/11563616" style="color:#A52A2A; font-weight:bold">pdf</a>] 🎉🎉</span>
+  <span><strong style="color:#0047AB">[Paper]</strong> One paper was accepted by IEEE Transactions on Cloud Computing (<em style="color:#A52A2A">IEEE TCC</em>). [<a href="https://ieeexplore.ieee.org/abstract/document/11563616" style="color:#A52A2A; font-weight:bold">pdf</a>] 🎉🎉</span>
   <span style="white-space:nowrap;">06/2026</span>
 </li>
 </ul>
@@ -59,7 +49,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
   <span style="white-space:nowrap;">09/2025</span>
 </li>
 <li style="display:flex; justify-content:space-between;">
-  <span><strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by IEEE Transactions on Cognitive Communications and Networking (<em style="color:#A52A2A">IEEE TCCN</em>). [<a href="https://ieeexplore.ieee.org/document/11127211" style="color:#A52A2A; font-weight:bold">pdf</a>]</span>
+  <span><strong style="color:#0047AB">[Paper]</strong> One paper was accepted by IEEE Transactions on Cognitive Communications and Networking (<em style="color:#A52A2A">IEEE TCCN</em>). [<a href="https://ieeexplore.ieee.org/document/11127211" style="color:#A52A2A; font-weight:bold">pdf</a>]</span>
   <span style="white-space:nowrap;">08/2025</span>
 </li>
 <li style="display:flex; justify-content:space-between;">
@@ -67,7 +57,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
   <span style="white-space:nowrap;">08/2025</span>
 </li>
 <li style="display:flex; justify-content:space-between;">
-  <span><strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by The 3rd International Conference on Artificial Intelligence of Things and Systems (<em style="color:#A52A2A">AIoTSys 2025</em>). [<a href="https://link.springer.com/chapter/10.1007/978-981-95-2581-2_23" style="color:#A52A2A; font-weight:bold">pdf</a>] 🎉🎉</span>
+  <span><strong style="color:#0047AB">[Paper]</strong> One paper was accepted by The 3rd International Conference on Artificial Intelligence of Things and Systems (<em style="color:#A52A2A">AIoTSys 2025</em>). [<a href="https://link.springer.com/chapter/10.1007/978-981-95-2581-2_23" style="color:#A52A2A; font-weight:bold">pdf</a>] 🎉🎉</span>
   <span style="white-space:nowrap;">06/2025</span>
 </li>
 <li style="display:flex; justify-content:space-between;">
