@@ -99,7 +99,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCCN 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCCN 2025</div><img src='images/tccn.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SAMD-SRG: Service-Aware Microservice Deployment Using Spectral Ranking and Graph-Enhanced Reinforcement Learning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
