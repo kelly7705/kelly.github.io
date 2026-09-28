@@ -61,7 +61,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
   <span style="white-space:nowrap;">08/2025</span>
 </li>
 <li style="display:flex; justify-content:space-between;">
-  <span><strong style="color:#0047AB">[Paper]</strong> One paper was accepted by The 3rd International Conference on Artificial Intelligence of Things and Systems (<em style="color:#A52A2A">AIoTSys 2025</em>). [<a href="https://link.springer.com/chapter/10.1007/978-981-95-2581-2_23" style="color:#A52A2A; font-weight:bold">pdf</a>] 🎉🎉</span>
+  <span><strong style="color:#0047AB">[Paper]</strong> One paper was accepted by Artificial Intelligence of Things and Systems (<em style="color:#A52A2A">AIoTSys 2025</em>). [<a href="https://link.springer.com/chapter/10.1007/978-981-95-2581-2_23" style="color:#A52A2A; font-weight:bold">pdf</a>] 🎉🎉</span>
   <span style="white-space:nowrap;">06/2025</span>
 </li>
 <li style="display:flex; justify-content:space-between;">
