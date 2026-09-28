@@ -115,4 +115,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 
 
-
+<hr style="border: 0; border-top: 1px solid #e5e7eb; margin-top: 50px; margin-bottom: 20px;">
+<p style="text-align: center; font-size: 0.85em; color: #6b7280; line-height: 1.6;">
+  Copyright © 2026 Keli Liu · Last update in {{ site.time | date: "%b %Y" }} · Powered by <a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank" style="color: #6b7280; text-decoration: underline;">RayeRen</a>
+</p>
