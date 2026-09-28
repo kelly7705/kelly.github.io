@@ -25,11 +25,9 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 
 # 🔥 News
-<div style="position:relative; max-width:100%; max-height:480px; overflow-y:auto; overflow-x:hidden;">
-  <!-- 红色竖线：绝对定位，贴着内容区域最右边，高度跟随内容 -->
-  <div style="position:absolute; top:0; right:0; width:4px; background-color:#8C2318; height:100%;"></div>
-
-  <div style="padding-right:16px; padding-left:4px;">
+<div style="max-width:100%; max-height:480px; overflow-y:auto; overflow-x:hidden;">
+  <!-- 内层内容容器，右侧加边框，边框高度自动等于全部内容高度 -->
+  <div style="padding-right:16px; padding-left:4px; border-right:4px solid #8C2318;">
     <h3 style="margin-bottom:8px;">2026</h3>
     <ul style="padding-left:20px; margin:0 0 16px 0;">
       <li style="display:flex; justify-content:space-between;">
@@ -111,6 +109,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
     </ul>
   </div>
 </div>
+
 
 
 
