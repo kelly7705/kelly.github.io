@@ -154,7 +154,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 <div class='paper-box-image' style="width: 300px; max-width: 300px;">    
 <div style="position: relative; border-radius: 10px; overflow: hidden;">
 <div class="badge">AIoTSys 2025</div>
-<img src='images/aiotsys.svg' alt="sym" width="100%" style="border-radius: 10px; display: block;"></div>
+<img src='images/aiotsys.png' alt="sym" width="100%" style="border-radius: 10px; display: block;"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
