@@ -98,6 +98,34 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 # 📝 Publications 
 
+
+<div class='paper-box'>
+<div class='paper-box-image' style="width: 300px; max-width: 300px;">    
+<div style="position: relative; border-radius: 10px; overflow: hidden;">
+<div class="badge">IEEE TCC</div>
+<img src='images/TCC.png' alt="sym" width="100%" style="border-radius: 10px; display: block;"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[TFRL-MD: Transformer-Enhanced Federated Reinforcement Learning for Intelligent Microservice Deployment and Resource Allocation](https://ieeexplore.ieee.org/abstract/document/11563616)
+
+**Keli Liu**, Jing Yang, Xiaoli Ruan, Yuling Chen, Xu Wang, Jianhong Cheng, Yulong Yang, Minyi Guo
+
+*IEEE Transactions on Cloud Computing (IEEE TCC, CCF B, IF=5.3, JCR Q1)*
+
+<div style="margin-top: 10px;">
+    <a href="uploads/TCC2026.pdf" target="_blank" style="display: inline-block; padding: 2px 10px; font-size: 0.85em; font-weight: 600; color: #0056b3; border: 1.5px solid #0056b3; border-radius: 6px; text-decoration: none; margin-right: 8px;">PDF</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11563616" target="_blank" style="display: inline-block; padding: 2px 10px; font-size: 0.85em; font-weight: 600; color: #0056b3; border: 1.5px solid #0056b3; border-radius: 6px; text-decoration: none; margin-right: 8px;">DOI</a>
+</div>
+
+</div>
+</div>
+
+
+
+
+
+
 <div class='paper-box'>
 <div class='paper-box-image' style="width: 300px; max-width: 300px;">    
 <div style="position: relative; border-radius: 10px; overflow: hidden;">
