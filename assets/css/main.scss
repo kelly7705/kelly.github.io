@@ -121,8 +121,8 @@
     .paper-box-image {
         /* 强制锁定左侧图片区域为固定的 180px 宽度，解决图片过大问题 */
         flex: 0 0 180px !important;
-        width: 180px !important;
-        max-width: 180px !important;
+        width: 300px !important;
+        max-width: 300px !important;
         margin-right: 25px !important;
         order: 1 !important;
 
