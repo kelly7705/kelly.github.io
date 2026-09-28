@@ -45,7 +45,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 <h3 style="margin-bottom:8px;">2025</h3>
 <ul style="padding-left:20px; margin:0;">
 <li style="display:flex; justify-content:space-between;">
-  <span><strong style="color:#D2691E">[Award]</strong> I was awarded the National Postgraduate Scholarship. 🏆</span>
+  <span><strong style="color:#2E8B57">[Award]</strong> I was awarded the National Postgraduate Scholarship. 🏆</span>
   <span style="white-space:nowrap;">12/2025</span>
 </li>
 <li style="display:flex; justify-content:space-between;">
