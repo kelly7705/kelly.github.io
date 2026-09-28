@@ -112,6 +112,10 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 *IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN, IF=7.0, JCR Q1)*
 
+<div style="margin-top: 10px;">
+    <a href="uploads/tccn2025.pdf" target="_blank" style="display: inline-block; padding: 2px 10px; font-size: 0.85em; font-weight: 600; color: #0056b3; border: 1.5px solid #0056b3; border-radius: 6px; text-decoration: none; margin-right: 8px;">PDF</a>
+    <a href="https://doi.org/10.1109/TCCN.2025.3599575" target="_blank" style="display: inline-block; padding: 2px 10px; font-size: 0.85em; font-weight: 600; color: #0056b3; border: 1.5px solid #0056b3; border-radius: 6px; text-decoration: none; margin-right: 8px;">DOI</a>
+  </div>
 
 </div>
 </div>
