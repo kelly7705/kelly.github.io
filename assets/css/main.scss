@@ -109,90 +109,83 @@
 // }
 
 
-
 .paper-box {
     display: flex;
-    justify-content: left;
+    justify-content: flex-start;
     align-items: center;
     flex-direction: row;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 1.5em 0;
 
     .paper-box-image {
-        justify-content: center;
-        display: flex;
-        width: 100%;
-        order: 2;
+        /* 强制锁定左侧图片区域为固定的 180px 宽度，解决图片过大问题 */
+        flex: 0 0 180px !important;
+        width: 180px !important;
+        max-width: 180px !important;
+        margin-right: 25px !important;
+        order: 1 !important;
 
-        /* 给包裹 img 的 div 添加卡片圆角与阴影（图 2 效果） */
         > div {
-            position: relative;
-            border-radius: 12px;
-            overflow: hidden; /* 裁剪边缘，保证 Badge 和图片顺应圆角 */
-            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15); /* 柔和悬浮阴影 */
-            background-color: #ffffff;
+            position: relative !important;
+            width: 100% !important;
+            /* 增大圆角至 16px 并进行严格裁剪 */
+            border-radius: 16px !important;
+            overflow: hidden !important; 
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12) !important;
+            background-color: #ffffff !important;
             transition: transform 0.2s ease, box-shadow 0.2s ease;
 
             &:hover {
-                transform: translateY(-2px); /* 悬停微浮动 */
-                box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+                transform: translateY(-2px);
+                box-shadow: 0 8px 22px rgba(0, 0, 0, 0.16) !important;
             }
         }
 
         img {
-            width: 100%;
-            height: auto;
-            display: block;
-            box-shadow: none; /* 清除旧的粗糙阴影 */
-            object-fit: cover;
+            width: 100% !important;
+            height: auto !important;
+            display: block !important;
+            /* 给 img 标签本身也加上 16px 圆角，双重保障 */
+            border-radius: 16px !important;
+            box-shadow: none !important;
         }
     }
 
     .paper-box-text {
-        max-width: 100%;
-        order: 1;
+        flex: 1 !important;
+        max-width: calc(100% - 205px) !important;
+        order: 2 !important;
+        padding-left: 0 !important;
     }
 
-    @include breakpoint($medium) {
+    /* 移动端自适应：小屏下图片居中 */
+    @media (max-width: 600px) {
+        flex-direction: column;
         .paper-box-image {
-            justify-content: left;
-            flex: 0 0 220px; /* 固定图片区域宽度为 220px，解决图片过大问题 */
-            max-width: 220px;
-            order: 1;
+            flex: 0 0 100% !important;
+            width: 100% !important;
+            max-width: 240px !important;
+            margin-right: 0 !important;
+            margin-bottom: 15px !important;
         }
-
         .paper-box-text {
-            justify-content: left;
-            padding-left: 2em;
-            flex: 1;
-            max-width: calc(100% - 220px);
-            order: 2;
+            max-width: 100% !important;
         }
     }
 }
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
-}
-
-/* Badge 样式优化：完美贴合卡片左上角 */
+/* Badge 样式修正：完美融入卡片左上角弧度 */
 .badge {
-    padding: 4px 10px;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 10;
-    color: white;
-    background-color: #00369f;
-    font-size: 0.8em;
-    font-weight: bold;
-    border-bottom-right-radius: 8px; /* 右下角微圆角 */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    padding: 4px 10px !important;
+    margin: 0 !important; /* 清除原有负 margin 导致的错位 */
+    color: #ffffff !important;
+    background-color: #00369f !important;
+    font-size: 0.75em !important;
+    font-weight: bold !important;
+    border-bottom-right-radius: 8px !important;
+    z-index: 2 !important;
 }
