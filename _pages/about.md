@@ -24,7 +24,8 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 
 # 🔥 News
-<ul>
+<div style="max-width:100%; height:420px; overflow-y:auto; border-right:4px solid #8C2318; padding-right:12px; padding-left:4px;">
+<ul style="padding-left:20px; margin:0;">
 <li>[Jun 2026]: &nbsp; <strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by IEEE Transactions on Cloud Computing (<em style="color:#A52A2A">IEEE TCC</em>). [<a href="https://ieeexplore.ieee.org/abstract/document/11563616" style="color:#A52A2A; font-weight:bold">pdf</a>]</li>
 <li>[Dec 2025]: &nbsp; <strong style="color:#2E8B57">[Award]</strong> I was awarded the National Postgraduate Scholarship. 🎉🎉</li>
 <li>[Sep 2025]: &nbsp; <strong style="color:#D2691E">[Patent]</strong> One patent was granted. 🎉</li>
@@ -33,6 +34,8 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 <li>[Jun 2025]: &nbsp; <strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by The 3rd International Conference on Artificial Intelligence of Things and Systems (<em style="color:#A52A2A">AIoTSys 2025</em>). 🎉 [<a href="https://link.springer.com/chapter/10.1007/978-981-95-2581-2_23" style="color:#A52A2A; font-weight:bold">pdf</a>]</li>
 <li>[May 2025]: &nbsp; <strong style="color:#D2691E">[Patent]</strong> One patent was granted. 🎉</li>
 </ul>
+</div>
+
 
 
 
