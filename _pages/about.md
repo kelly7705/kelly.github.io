@@ -70,34 +70,6 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 </li>
 
 
-<li style="display:flex; justify-content:space-between;">
-  <span><strong style="color:#D2691E">[Patent]</strong> One patent was granted. ✨</span>
-  <span style="white-space:nowrap;">05/2025</span>
-</li>
-<li style="display:flex; justify-content:space-between;">
-  <span><strong style="color:#D2691E">[Patent]</strong> One patent was granted. ✨</span>
-  <span style="white-space:nowrap;">05/2025</span>
-</li>
-<li style="display:flex; justify-content:space-between;">
-  <span><strong style="color:#D2691E">[Patent]</strong> One patent was granted. ✨</span>
-  <span style="white-space:nowrap;">05/2025</span>
-</li>
-<li style="display:flex; justify-content:space-between;">
-  <span><strong style="color:#D2691E">[Patent]</strong> One patent was granted. ✨</span>
-  <span style="white-space:nowrap;">05/2025</span>
-</li>
-<li style="display:flex; justify-content:space-between;">
-  <span><strong style="color:#D2691E">[Patent]</strong> One patent was granted. ✨</span>
-  <span style="white-space:nowrap;">05/2025</span>
-</li>
-<li style="display:flex; justify-content:space-between;">
-  <span><strong style="color:#D2691E">[Patent]</strong> One patent was granted. ✨</span>
-  <span style="white-space:nowrap;">05/2025</span>
-</li>
-<li style="display:flex; justify-content:space-between;">
-  <span><strong style="color:#D2691E">[Patent]</strong> One patent was granted. ✨</span>
-  <span style="white-space:nowrap;">05/2025</span>
-</li>
 
   
 </ul>
