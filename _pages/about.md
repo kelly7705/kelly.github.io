@@ -106,7 +106,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 </div>
 <div class='paper-box-text' markdown="1">
 
-[SAMD-SRG: Service-Aware Microservice Deployment Using Spectral Ranking and Graph-Enhanced Reinforcement Learning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[SAMD-SRG: Service-Aware Microservice Deployment Using Spectral Ranking and Graph-Enhanced Reinforcement Learning](https://doi.org/10.1109/TCCN.2025.3599575)
 
 **Keli Liu**, Jing Yang, Xiaoli Ruan, Han Zhao, Shixuan Sun, Shaobo Li, Minyi Guo
 
