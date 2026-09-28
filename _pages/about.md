@@ -33,6 +33,10 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 <h3 style="margin-bottom:8px;">2026</h3>
 <ul style="padding-left:20px; margin:0 0 16px 0;">
 <li style="display:flex; justify-content:space-between;">
+  <span><strong style="color:#0047AB">[Paper]</strong> One first-author paper was submitted to TNSE.</span>
+  <span style="white-space:nowrap;">09/2026</span>
+</li>
+<li style="display:flex; justify-content:space-between;">
   <span><strong style="color:#0047AB">[Paper]</strong> One paper was accepted by IEEE Transactions on Cloud Computing (<em style="color:#A52A2A">IEEE TCC</em>). [<a href="https://ieeexplore.ieee.org/abstract/document/11563616" style="color:#A52A2A; font-weight:bold">pdf</a>] 🎉🎉</span>
   <span style="white-space:nowrap;">06/2026</span>
 </li>
