@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👩‍🎓 About Me
-Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key Laboratory of Public Big Data, Guizhou University, supervised by [Prof. Xiaoli Ruan](https://link.wtturl.cn/?target=https%3A%2F%2Fpbd.gzu.edu.cn%2F2023%2F0331%2Fc17349a184634%2Fpage.htm&scene=im&aid=582478&lang=zh) and co‑supervised by [Prof. Jing Yang](https://link.wtturl.cn/?target=https%3A%2F%2Fpbd.gzu.edu.cn%2F2023%2F0331%2Fc17349a184652%2Fpage.htm&scene=im&aid=582478&lang=zh). My research focuses on wireless communications, edge computing, and trustworthy AI. 
+Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key Laboratory of Public Big Data, Guizhou University, supervised by [Prof. Xiaoli Ruan](https://pbd.gzu.edu.cn/2023/0331/c17349a184634/page.htm) and co‑supervised by [Prof. Jing Yang](https://pbd.gzu.edu.cn/2023/0331/c17349a184652/page.htm). My research focuses on wireless communications, edge computing, and trustworthy AI.
+
 
 📢📢 If you are interested in my work, please feel free to reach out via [email](mailto:keliliu27@outlook.com). I am glad to chat with everyone.
 
