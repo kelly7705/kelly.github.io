@@ -26,7 +26,9 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 # 🔥 News
 
-<div style="max-width:100%; border-right:4px solid #8C2318; padding-right:12px; padding-left:4px; height:450px; overflow-y:auto;">
+<div style="max-width:100%; height:450px; overflow-y:auto;">
+
+<div style="border-right:4px solid #8C2318; padding-right:12px; padding-left:4px; display:inline-block;">
 
 <h3 style="margin-bottom:8px;">2026</h3>
 <ul style="padding-left:20px; margin:0 0 16px 0;">
@@ -67,6 +69,9 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
   <span style="white-space:nowrap;">05/2025</span>
 </li>
 </ul>
+
+</div>
+
 </div>
 
 
