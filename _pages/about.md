@@ -25,14 +25,15 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 # 🔥 News
 <ul>
-<li>[Jun 2026]: &nbsp; <strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by <em style="color:#D81E06">IEEE Transactions on Cloud Computing (IEEE TCC)</em>. [<a href="https://ieeexplore.ieee.org/abstract/document/11563616" style="color:#D81E06; font-weight:bold">pdf</a>]</li>
+<li>[Jun 2026]: &nbsp; <strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by IEEE Transactions on Cloud Computing (<em style="color:#A52A2A">IEEE TCC</em>). [<a href="https://ieeexplore.ieee.org/abstract/document/11563616" style="color:#A52A2A; font-weight:bold">pdf</a>]</li>
 <li>[Dec 2025]: &nbsp; <strong style="color:#2E8B57">[Award]</strong> I was awarded the National Postgraduate Scholarship. 🎉🎉</li>
 <li>[Sep 2025]: &nbsp; <strong style="color:#D2691E">[Patent]</strong> One patent was granted. 🎉</li>
-<li>[Aug 2025]: &nbsp; <strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by <em style="color:#D81E06">IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)</em>. [<a href="https://ieeexplore.ieee.org/document/11127211" style="color:#D81E06; font-weight:bold">pdf</a>]</li>
-<li>[Aug 2025]: &nbsp; <strong style="color:#9932CC">[Talk]</strong> I gave a presentation at <em style="color:#D81E06">AIoTSys 2025</em>, Lanzhou, China.</li>
-<li>[Jun 2025]: &nbsp; <strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by <em style="color:#D81E06">The 3rd International Conference on Artificial Intelligence of Things and Systems (AIoTSys 2025)</em>. 🎉 [<a href="https://link.springer.com/chapter/10.1007/978-981-95-2581-2_23" style="color:#D81E06; font-weight:bold">pdf</a>]</li>
+<li>[Aug 2025]: &nbsp; <strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by IEEE Transactions on Cognitive Communications and Networking (<em style="color:#A52A2A">IEEE TCCN</em>). [<a href="https://ieeexplore.ieee.org/document/11127211" style="color:#A52A2A; font-weight:bold">pdf</a>]</li>
+<li>[Aug 2025]: &nbsp; <strong style="color:#9932CC">[Talk]</strong> I gave a presentation at AIoTSys 2025, Lanzhou, China.</li>
+<li>[Jun 2025]: &nbsp; <strong style="color:#0047AB">[Paper]</strong> One first-author paper was accepted by The 3rd International Conference on Artificial Intelligence of Things and Systems (<em style="color:#A52A2A">AIoTSys 2025</em>). 🎉 [<a href="https://link.springer.com/chapter/10.1007/978-981-95-2581-2_23" style="color:#A52A2A; font-weight:bold">pdf</a>]</li>
 <li>[May 2025]: &nbsp; <strong style="color:#D2691E">[Patent]</strong> One patent was granted. 🎉</li>
 </ul>
+
 
 
 
