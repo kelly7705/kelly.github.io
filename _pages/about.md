@@ -150,7 +150,26 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 
 
+<div class='paper-box'>
+<div class='paper-box-image' style="width: 300px; max-width: 300px;">    
+<div style="position: relative; border-radius: 10px; overflow: hidden;">
+<div class="badge">AIoTSys 2025</div>
+<img src='images/aiotsys.svg' alt="sym" width="100%" style="border-radius: 10px; display: block;"></div>
+</div>
+<div class='paper-box-text' markdown="1">
 
+[GraphSAGE-Enhanced Reinforcement Learning for Optimizing Load-Aware Microservice Deployment](https://doi.org/10.1007/978-981-95-2581-2_23)
+
+**Keli Liu**, Jing Yang, Xiaoli Ruan, Qing Hou, Xianghong Tang, Jianhong Cheng
+
+*The 3rd International Conference on Artificial Intelligence of Things and Systems (AIoTSys 2025)*
+
+<div style="margin-top: 10px;">
+    <a href="https://doi.org/10.1007/978-981-95-2581-2_23" target="_blank" style="display: inline-block; padding: 2px 10px; font-size: 0.85em; font-weight: 600; color: #0056b3; border: 1.5px solid #0056b3; border-radius: 6px; text-decoration: none;">DOI</a>
+</div>
+
+</div>
+</div>
 
 
 
