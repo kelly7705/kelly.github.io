@@ -26,9 +26,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 # 🔥 News
 
-
-
-<div style="max-width:100%; border-right:4px solid #8C2318; padding-right:12px; padding-left:4px;">
+<div style="max-width:100%; border-right:4px solid #8C2318; padding-right:12px; padding-left:4px; height:450px; overflow-y:auto;">
 
 <h3 style="margin-bottom:8px;">2026</h3>
 <ul style="padding-left:20px; margin:0 0 16px 0;">
@@ -68,12 +66,9 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
   <span><strong style="color:#D2691E">[Patent]</strong> One patent was granted. ✨</span>
   <span style="white-space:nowrap;">05/2025</span>
 </li>
-
-
-
-  
 </ul>
 </div>
+
 
 
 
