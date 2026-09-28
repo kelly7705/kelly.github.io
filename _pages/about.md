@@ -24,9 +24,12 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 📢📢 If you are interested in my work, please feel free to reach out via [email](mailto:keliliu27@outlook.com). I am glad to chat with everyone.
 
 
+
+
+
 # 🔥 News
 <div style="max-width:100%; max-height:480px; overflow-y:auto; overflow-x:hidden;">
-    
+    <!-- 内层内容容器，右侧加边框，边框高度自动等于全部内容高度 -->
     <div style="padding-right:16px; padding-left:4px; border-right:4px solid #8C2318;">
         <h3 style="margin-bottom:8px;">2026</h3>
         <ul style="padding-left:20px; margin:0 0 16px 0;">
@@ -69,8 +72,6 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
         </ul>
     </div>
 </div>
-
-
 
 
 
