@@ -106,8 +106,9 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 **Keli Liu**, Jing Yang, Xiaoli Ruan, Han Zhao, Shixuan Sun, Shaobo Li, Minyi Guo
 
+*IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN, IF=7.0, JCR Q1)*
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 </div>
 </div>
 
