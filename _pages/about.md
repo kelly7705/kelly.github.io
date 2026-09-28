@@ -24,7 +24,9 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 
 # 🔥 News
+- [Jun 2026]: &nbsp; One first-author paper was accepted by IEEE Transactions on Cloud Computing (IEEE TCC). <a href="https://ieeexplore.ieee.org/abstract/document/11563616"><span style="color:red">pdf</span></a>
 - [Dec 2025]: &nbsp; I was awarded the National Postgraduate Scholarship. 🎉🎉
+- [Aug 2025]: &nbsp; One first-author paper was accepted by IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN). <a href="https://ieeexplore.ieee.org/document/11127211"><span style="color:red">pdf</span></a>
 
 
  
