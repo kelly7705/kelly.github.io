@@ -24,13 +24,15 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 
 # 🔥 News
-- [Jun 2026]: &nbsp; [Paper] One first-author paper was accepted by IEEE Transactions on Cloud Computing (IEEE TCC). [<span style="color:red">pdf</span>](https://ieeexplore.ieee.org/abstract/document/11563616)
+# 🔥 News
+- [Jun 2026]: &nbsp; [Paper] One first-author paper was accepted by IEEE Transactions on Cloud Computing (IEEE TCC). [pdf](https://ieeexplore.ieee.org/abstract/document/11563616)
 - [Dec 2025]: &nbsp; [Award] I was awarded the National Postgraduate Scholarship. 🎉🎉
 - [Sep 2025]: &nbsp; One patent was granted. 🎉
-- [Aug 2025]: &nbsp; [Paper] One first-author paper was accepted by IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN). [<span style="color:red">pdf</span>](https://ieeexplore.ieee.org/document/11127211)
+- [Aug 2025]: &nbsp; [Paper] One first-author paper was accepted by IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN). [pdf](https://ieeexplore.ieee.org/document/11127211)
 - [Aug 2025]: &nbsp; [Talk] I gave a presentation at AIoTSys 2025, Lanzhou, China.
-- [Jun 2025]: &nbsp; [Paper] One first-author paper was accepted by The 3rd International Conference on Artificial Intelligence of Things and Systems (AIoTSys 2025). 🎉 [<span style="color:red">pdf</span>](https://link.springer.com/chapter/10.1007/978-981-95-2581-2_23)
+- [Jun 2025]: &nbsp; [Paper] One first-author paper was accepted by The 3rd International Conference on Artificial Intelligence of Things and Systems (AIoTSys 2025). 🎉 [pdf](https://link.springer.com/chapter/10.1007/978-981-95-2581-2_23)
 - [May 2025]: &nbsp; One patent was granted. 🎉
+
 
 
 
