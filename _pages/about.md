@@ -99,7 +99,7 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 # 📝 Publications 
 
 <div class='paper-box'>
-<div class='paper-box-image' style="width: 300px; max-width: 300px;">    
+<div class='paper-box-image' ">    
 <div style="position: relative; border-radius: 10px; overflow: hidden;">
 <div class="badge">IEEE TCCN 2025</div>
 <img src='images/tccn.svg' alt="sym" width="100%" style="border-radius: 10px; display: block;"></div>
