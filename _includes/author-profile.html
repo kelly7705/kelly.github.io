@@ -6,12 +6,12 @@
 
   <div class="author__avatar">
     <!-- <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}"> -->
-  <img src="images/lkl.jpg" class="author__avatar" alt="Keli Liu">
+  <img src="images/lkl.jpg" class="author__avatar" alt="{{ author.name }}">
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <h1 class="author__name">Keli Liu</h1>
+    <!-- {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %} -->
   </div>
 
   <div class="author__urls-wrapper">
@@ -21,7 +21,7 @@
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Henan, China</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
