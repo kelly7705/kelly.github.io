@@ -24,7 +24,8 @@ Hi, this is Keli (Kelly) Liu. I obtained my Master’s degree from the State Key
 
 
 # 🔥 News
-- *Dec 2025*: &nbsp; Awarded the National Postgraduate Scholarship. 🎉🎉
+- [Dec 2025]: &nbsp; Awarded the National Postgraduate Scholarship. 🎉🎉
+
  
 
 # 📝 Publications 
